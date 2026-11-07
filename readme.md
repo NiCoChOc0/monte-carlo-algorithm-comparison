@@ -38,6 +38,7 @@ $A_{disque} = \pi \times r^2 = \pi \times 1^2 = \pi$.
 
 Le rapport des aires vaut donc :
 $\frac{A_{carre}}{A_{disque}} = \frac{4}{\pi}$
+
 $\pi = 4 \times \frac{A_{disque}}{A_{carre}}$
 
 ## Premiers tests en Python
